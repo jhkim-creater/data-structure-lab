@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\data-structure-lab\\Lec02-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3FED29-381C-41CC-928D-2CC079FCA33C}|Lec02-1\\Lec02-1.vcxproj|D:\\VisualStudio\\data-structure-lab\\Lec02-1\\Lec02-1\\Lec02-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E3FED29-381C-41CC-928D-2CC079FCA33C}|Lec02-1\\Lec02-1.vcxproj|solutionrelative:Lec02-1\\Lec02-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lec02-1.cpp",
+              "DocumentMoniker": "D:\\VisualStudio\\data-structure-lab\\Lec02-1\\Lec02-1\\Lec02-1.cpp",
+              "RelativeDocumentMoniker": "Lec02-1\\Lec02-1.cpp",
+              "ToolTip": "D:\\VisualStudio\\data-structure-lab\\Lec02-1\\Lec02-1\\Lec02-1.cpp",
+              "RelativeToolTip": "Lec02-1\\Lec02-1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-18T09:36:55.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
